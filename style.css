@@ -1,0 +1,150 @@
+@import url('https://fonts.google.com/specimen/Poppins');
+
+*{
+  padding:  0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+body{
+  background-color: #94AF9F
+}
+body{
+  color: #8D7B68;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.wrapper{
+  border-radius: 1.5rem;
+}
+.wrapper img{
+  width: 13rem;
+  height: 13rem;
+  margin-bottom: 0;
+  border-radius: 1.5rem 1.5rem 1.5rem;
+  margin: 0 auto;
+  display: flex;
+}
+.title{
+  text-align: center;
+  line-height: 1.2rem;
+  padding: 1rem 0;
+  
+}
+* {
+  box-sizing: border-box;
+ }
+ 
+ body{
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url('https://i.pinimg.com/236x/40/62/02/406202d1310aa9adedc65f14df0638a3.jpg');
+  font-size: 15px;
+  line-height: 1.5;
+  padding: 0;
+  margin: 0;
+ }
+ 
+ .container{
+  width:520px;
+  height: auto;
+  min-height:100px;
+  margin:1.5rem;
+  background-color: #9cb0a0;
+  border-radius: 1.5rem
+ 
+ }
+ 
+ 
+ .base h4{
+  font-size: 35px;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: normal;
+  margin-top: 0px;
+  box-shadow: 0px 2px #bababa;
+  background: rgb(36, 72, 72);
+  font-size: 34px;
+  color: rgb(24, 24, 24);
+  font-weight: 600;
+ }
+ 
+ .block{
+  width: 200px;
+  padding: 5px 20px;
+  margin-left: 165px;
+  display: inline-block;
+  float: left;
+ }
+ 
+ 
+ .title{
+  font-size: 20px;
+  text-align: left;
+  font-family: sans-serif;
+  font-weight: 600;
+  line-height: 0.5;
+  letter-spacing: 0.5px;
+  word-spacing: 2.7px;
+  color: #4d6e52;
+ 
+ }
+ 
+ input[type=text] {
+  width: 140px;
+  margin: auto;
+  outline: none;
+  min-height: 50px;
+  border: 5px solid #708357;
+  padding: 12px;
+  background-color: #bdf2ab;
+  border-radius: 5px;
+  color: #0c0c0c;
+  font-size: 30px;
+  font-weight: 400;
+  text-align: center;
+  border-style: dotted;
+ }
+ 
+ 
+ input[type=button]{
+  width: 150px;
+  margin-left: 35%;
+  outline: none;
+  border: none;
+  border-radius: 2px;
+  background-color: #2f5d35;
+  color: #ffffff;
+  font-weight: 300;
+margin-top: 0;
+  padding: 14px 16px;
+  text-align: center;
+  font-size: 16px;
+  border-radius: 1.5rem;
+ }
+ 
+ input[type=button]:hover{
+  background-color: #708357;
+ }
+ 
+ #age{
+  display:center;
+  margin-top: 1px;
+  padding: 5px;
+  padding-bottom: 25px;
+  overflow: hidden;
+  font-family: verdana;
+  font-size: 23px;
+  font-weight: normal;
+  line-height: 1.5;
+  word-spacing: 2.7px;
+  color: rgb(8, 8, 8);
+  font-weight: 600;
+ }
+ .copyright{
+  text-align: center;
+  justify-content: center;
+  color:#000;
+  padding-top: 2rem;
+}
